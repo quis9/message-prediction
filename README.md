@@ -8,5 +8,5 @@ The program will predict the following 3 things:
 + The **job** you will do.
 + **Personality** of the person you will fall in love with.
 ## About me
-This is my first program! I hope i will improve it in the near future.
+This is my first program! I hope i will improve it in the near future :relaxed: :muscle:.
 
